@@ -16,4 +16,4 @@
 
 * **Spring Boot:** Provides a robust foundation for building RESTful APIs that power the application.
 * **MySQL:** Stores recipe data efficiently and reliably.
-* **Angular 18:** Delivers a dynamic and beautifully crafted web interface.
+* **Angular 17:** Delivers a dynamic and beautifully crafted web interface.
